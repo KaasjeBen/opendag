@@ -104,12 +104,14 @@ main h3{
     background: #e6f3ff;
 }
 
-.rooster {
+.rooster,
+.blokken {
     margin-bottom: 40px;
     text-align: center;
 }
 
-.rooster img{
+.rooster img,
+.blokken img{
     max-width: 100%;
     height: auto;
     border-radius: 12px;
