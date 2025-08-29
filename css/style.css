@@ -149,6 +149,11 @@ footer{
     background: #003366;
 }
 
+footer a{
+  color: white;
+  text-decoration: none;
+}
+
 /* telefoon gebruik */
 @media (max-width: 768px) {
   nav {
