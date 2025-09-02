@@ -135,8 +135,12 @@ main h3 {
     padding: 20px;
     width: 220px;
     text-align: center;
-    background: white;
     transition: all 0.3s ease;
+}
+
+.teacher img {
+  width: 50px;
+  height: auto;
 }
 
 .teacher:hover {
