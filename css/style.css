@@ -85,6 +85,15 @@ main h3 {
     background: #f0faff;
 }
 
+.Versnellen {
+    border: 2px solid #0077cc;
+    border-radius: 12px;
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 40px;
+    background: #f0faff;
+}
+
 .subjects {
     display: flex;
     flex-wrap: wrap;
